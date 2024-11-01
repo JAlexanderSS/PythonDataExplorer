@@ -1,0 +1,12 @@
+ID Paciente,Nombre,Apellido,Edad,Sexo,Fecha Nacimiento,Email,Telefono,Direccion,Ciudad,Pais,Fecha Muestra,Tipo de Muestra,Resultado Influenza,Observaciones,Fecha Resultado,Temperatura,Sintomas,Responsable
+P001,Juan,Perez,35,M,1989-04-23,juan_perez@correo.com,+5215554327890,"Calle
+23 #45",Ciudad de Mexico,Mexico,2024-10-01,Sangre,Positivo,"""Sin fiebre, tos leve""",2024-10-02 09:30:00,37.1,Tos,Dr. Gonzalez
+P002,Maria,Garcia,33,F,1991-03-15,maria_garcia@dominio,,Avenida Reforma#120,,Mexico,2024-10-01,,Negativo,Ninguno,,36.9,Ninguno,
+P003,,,27,M,1997-09-30,,+5551112222,,Buenos Aires,Argentina,2024-10-02,Hisopado,Positivo,Fiebre alta,2024-10-03 22:00:00,39.2,Fiebre,Dr. MarZnez
+P004,Luis,Lopez,45,M,1979-11-01,luis.lopez@correo,,Calle Falsa 123,Santiago,Chile,2024-10-02,Sangre,,Sin sintomas,,,Dolor de cabeza,
+P005,Ana,Rodriguez,30,F,1994-05-12,ana_rodriguez@dominio.com,+541123456789,Av. Los Pinos #300,,Argentina,2024-10-03,,Negativo,Tos leve,,37.5,Tos,Dr. Perez
+P006,Carlos,Sanchez,39,M,1985-01-20,carlos_sanchez@correo.com,+5215556667788,,Ciudad de Mexico,,2024-10-02,Hisopado,Positivo,Fiebre y tos,2024-10-03 14:30:00,38.5,Tos,Dr. Lopez
+P007,,Martinez,29,F,1995-08-10,martinez_f@dominio,,Sin direccion,Ciudad,Pais,2024-10-01,Sangre,Positivo,Tos,2024-10-02 17:00:00,,Tos,Dr. Ramirez
+P008,Pedro,Ramos,38,,1986-02-22,pedro.ramos@correo.com,,Av. Central #400,Lima,Peru,2024-10-02,Sangre,Negativo,Sin sintomas,,37.0,Ninguno,
+P009,Beatriz,Torres,40,F,1983-12-10,beatriz.torres@dominio,,,Sao Paulo,Brasil,2024-10-02,Hisopado,,Sin fiebre,,,,
+P010,Francisco,Diaz,36,M,1988-07-15,francisco_diaz@correo,,Calle 10,Bogota,Colombia,2024-10-01,Sangre,Positivo,Dolor muscular,2024-10-02 08:30:00,38.0,Dolor muscular,Dr. Alvarez
