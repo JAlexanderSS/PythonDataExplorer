@@ -1,0 +1,113 @@
+[
+    {
+        "ID_Empleado": "E001",
+        "Nombre": "Juan",
+        "Apellido": "Pérez",
+        "Edad": "29",
+        "Email": "juan.perez@empresa.com",
+        "Departamento": "Tecnología",
+        "Rol": "Desarrollador",
+        "Fecha_Contratacion": "2019-03-15",
+        "Proyectos": [
+            {
+                "ID_Proyecto": "P001",
+                "Nombre_Proyecto": "Implementación API",
+                "Estado_Proyecto": "En Progreso",
+                "Fecha_Inicio": "2024-01-10",
+                "Tareas": [
+                    {
+                        "Tarea": "Diseño de Esquema",
+                        "Fecha_Limite_Tarea": "2024-02-01",
+                        "Estado_Tarea": "Completado",
+                        "Revisores": [
+                            "Ana López",
+                            "Carlos Sánchez"
+                        ]
+                    },
+                    {
+                        "Tarea": "Desarrollo Backend",
+                        "Fecha_Limite_Tarea": "2024-03-01",
+                        "Estado_Tarea": "En Progreso",
+                        "Revisores": [
+                            "Carlos Sánchez"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID_Empleado": "E002",
+        "Nombre": "María",
+        "Apellido": "Gómez",
+        "Edad": "35",
+        "Email": "maria.gomez@empresa.com",
+        "Departamento": "Recursos Humanos",
+        "Rol": "Reclutador",
+        "Fecha_Contratacion": "2018-06-10",
+        "Proyectos": [
+            {
+                "ID_Proyecto": "P002",
+                "Nombre_Proyecto": "Reclutamiento Masivo",
+                "Estado_Proyecto": "Completado",
+                "Fecha_Inicio": "2023-12-01",
+                "Tareas": [
+                    {
+                        "Tarea": "Entrevista de Candidatos",
+                        "Fecha_Limite_Tarea": "2024-01-15",
+                        "Estado_Tarea": "Completado",
+                        "Revisores": [
+                            "Ana López",
+                            "Pedro Ramos"
+                        ]
+                    },
+                    {
+                        "Tarea": "Selección Final",
+                        "Fecha_Limite_Tarea": "2024- 02-10",
+                        "Estado_Tarea": "Completado",
+                        "Revisores": [
+                            "Pedro Ramos"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID_Empleado": "E003",
+        "Nombre": "Luis",
+        "Apellido": "Martínez",
+        "Edad": "42",
+        "Email": "luis.martinez@empresa.com",
+        "Departamento": "Finanzas",
+        "Rol": "Contador",
+        "Fecha_Contratacion": "2015-11-05",
+        "Proyectos": [
+            {
+                "ID_Proyecto": "P003",
+                "Nombre_Proyecto": "Cierre Fiscal 2023",
+                "Estado_Proyecto": "En Revisión",
+                "Fecha_Inicio": "2023-11-01",
+                "Tareas": [
+                    {
+                        "Tarea": "Análisis de Datos",
+                        "Fecha_Limite_Tarea": "2024-01-20",
+                        "Estado_Tarea": "Completado",
+                        "Revisores": [
+                            "Beatriz Hernández"
+                        ]
+                    },
+                    {
+                        "Tarea": "Generación de Reporte",
+                        "Fecha_Limite_Tarea": "2024-02-10",
+                        "Estado_Tarea": "En Revisión",
+                        "Revisores": [
+                            "Beatriz Hernández",
+                            "Francisco Diaz"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
